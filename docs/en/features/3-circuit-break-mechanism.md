@@ -6,7 +6,7 @@ DeFiBus基于队列来做消费端的负载均衡，对同一个消费组，除�
 DeFiBus对每个Topic定义了深度的属性，表示Topic的队列允许堆积的最大消息条数。消息堆积数表示队列中尚未下发给消费者实例的消息条数，可由队列中最新一条消息的offset与消费者实例已经获取到的消息的offset的差值计算。
 <div align=center>
 
-![offset](../../../docs/images/features/circuit-break-p1.png)
+![offset](../../images/features/circuit-break-p1.png)
 
 </div>
 

@@ -5,11 +5,11 @@
 ### 整体架构  
 <div align=center>
 
-![architecture1](../../../docs/images/features/a-distributing-architecture-in-financial.png)
+![architecture1](../../images/features/a-distributing-architecture-in-financial.png)
 
 </div>
 
-![architecture2](../../../docs/images/features/architecture-p1.png)
+![architecture2](../../images/features/architecture-p1.png)
   
 DeFiBus主要包括以下几个组件（模块）：  
 
